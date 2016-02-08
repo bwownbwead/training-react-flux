@@ -1,0 +1,665 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dev",
+				"devBaseUrl"
+			],
+			[
+				"fil",
+				"fileContent"
+			],
+			[
+				"prima",
+				"primaryBrandColour"
+			],
+			[
+				"col",
+				"colourBodyCopy"
+			],
+			[
+				"link",
+				"linkedInUrl"
+			],
+			[
+				"yz",
+				"yzSiteUrl"
+			],
+			[
+				"defaul",
+				"defaultAnswers"
+			],
+			[
+				"twitter",
+				"twitterUrl"
+			],
+			[
+				"promis",
+				"promiseTest"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"padding",
+				"padding-bottom: "
+			],
+			[
+				"max-",
+				"max-width: "
+			],
+			[
+				"padding-",
+				"padding-top: "
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"all",
+				"allCheckbox"
+			],
+			[
+				"to",
+				"toggleAllComplete"
+			],
+			[
+				"create",
+				"createOnEnter"
+			],
+			[
+				"filter",
+				"filterOne"
+			],
+			[
+				"rem",
+				"remaining"
+			],
+			[
+				"todo",
+				"todo-list"
+			],
+			[
+				"add",
+				"addOne"
+			],
+			[
+				"fn",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install p",
+		"selected_items":
+		[
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"gith",
+				"GitHub: Open Starred Gist in Editor"
+			],
+			[
+				"gist",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"setsynphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"snipp",
+				"Snippet: sass-rem"
+			],
+			[
+				"Snippet: ",
+				"Snippet: sass-pem"
+			],
+			[
+				"snipedit",
+				"Snippet: underscore-tmpl-print"
+			],
+			[
+				"seys",
+				"Set Syntax: SCSS"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/vincentmcaulay/Documents/git/training-react-flux",
+		"/Users/vincentmcaulay/Documents/git/training-react-flux/dist",
+		"/Users/vincentmcaulay/Documents/git/training-react-flux/src"
+	],
+	"file_history":
+	[
+		"/Users/vincentmcaulay/Documents/git/training-react-flux/src/index.html",
+		"/Users/vincentmcaulay/Documents/git/training-react-flux/gulpfile.js",
+		"/Users/vincentmcaulay/Documents/git/training-react-flux/package.json",
+		"/Users/vincentmcaulay/Documents/git/training-react-flux/src/main.js",
+		"/Users/vincentmcaulay/Documents/git/training-react-flux/eslint.config.json",
+		"/Users/vincentmcaulay/Documents/git/training-react-flux/.gitignore",
+		"/Users/vincentmcaulay/Documents/git/yeo-generator-osemail/generator-osemail/package.json",
+		"/Users/vincentmcaulay/Documents/yeoman-testing/generator-osemail/app/index.js",
+		"/Users/vincentmcaulay/Documents/yeoman-testing/generator-test/package.json",
+		"/Users/vincentmcaulay/Documents/yeoman-testing/generator-test/app/index.js",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/Gruntfile.js",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/js/main.min.js",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/index.php",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/js/main.js",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/mail.php",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/js/lib.min.js",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/js/lib/gallery.min.js",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/css/styles.css",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/sass/settings/_fonts.scss",
+		"/Users/vincentmcaulay/Library/Application Support/Sublime Text 3/Packages/User/GitHub.sublime-settings",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/index.html",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/letemeatcake.sublime-project",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/sass/components/_component.hero.scss",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/sass/components/_component.gallery.scss",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/sass/global/_common.scss",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/sass/components/_component.services.scss",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/verdana.php",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/sass/global/_global.scss",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/js/gallery/birthday-cakes.js",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/js/lib/photoswipe/core.js",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/js/lib/photoswipe-ui-default.min.js",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/js/lib/photoswipe.min.js",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/sass/global/_buttons.scss",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/sass/components/_component.contact-form.scss",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/sass/components/_component.quote-box.scss",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/js/gallery/childrens-cakes.js",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/sass/settings/_settings.scss",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/js/gallery/wedding-cakes.js",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/js/gallery/adult-cupcakes.js",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/js/gallery/novelty-cakes.js",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/js/gallery/giant-cupcakes.js",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/sass/components/_component.faq.scss",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/sass/components/_component.header.scss",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/sass/components/_component.utils.scss",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/sass/components/_component.social-links.scss",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/sass/components/_components.scss",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/sass/settings/_mq.scss",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/js/lib/picturefill.min.js",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/css/lib/owl.carousel.css",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/sass/settings/_variables.scss",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/notes.txt",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/sass/global/_helpers.scss",
+		"/Users/vincentmcaulay/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/vincentmcaulay/Documents/Work--Personal/OnsideYouthZones/eMail-template--master/Onside 8 - Wirral.html",
+		"/Users/vincentmcaulay/Documents/Work--Personal/OnsideYouthZones/eMail-template--master/Onside 8 - Wolverhampton.html",
+		"/Users/vincentmcaulay/Documents/Work--Personal/OnsideYouthZones/eMail-template--master/mailchimp-template-example.html",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/node_modules/grunt/node_modules/exit/test/exit_test.js",
+		"/Users/vincentmcaulay/Documents/Work--Personal/OnsideYouthZones/eMail-template--master/Onside 7.html",
+		"/Users/vincentmcaulay/Documents/Work--Personal/OnsideYouthZones/eMail-template--master/Onside 9.html",
+		"/Users/vincentmcaulay/Documents/Work--Personal/OnsideYouthZones/eMail-template--master/Onside 8.html",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/sass/global/_h5-reset.scss",
+		"/Users/vincentmcaulay/Library/Application Support/Sublime Text 3/Packages/User/sass-mq.sublime-snippet",
+		"/Users/vincentmcaulay/Documents/Dev playground/Backbone Todo List/backbone-todos.sublime-project",
+		"/Users/vincentmcaulay/Documents/Dev playground/Backbone Todo List/backbone-play/css/base.css",
+		"/Users/vincentmcaulay/Documents/Dev playground/Backbone Todo List/backbone-play/js/views/todos.js",
+		"/Users/vincentmcaulay/Documents/Dev playground/Backbone Todo List/backbone-play/js/views/app.js",
+		"/Users/vincentmcaulay/Documents/Dev playground/Backbone Todo List/backbone-play/js/collections/todos.js",
+		"/Users/vincentmcaulay/Documents/Dev playground/Backbone Todo List/backbone-play/js/models/todo.js",
+		"/Users/vincentmcaulay/Documents/Dev playground/Backbone Todo List/backbone-play/js/app.js",
+		"/Users/vincentmcaulay/Documents/Dev playground/Backbone Todo List/backbone-play/index.html",
+		"/Users/vincentmcaulay/Documents/Dev playground/Backbone Todo List/backbone-play/js/lib/jquery.min.js",
+		"/Users/vincentmcaulay/Documents/Dev playground/Backbone Todo List/backbone-play/js/routers/router.js",
+		"/Users/vincentmcaulay/Library/Application Support/Sublime Text 3/Packages/User/underscore-tmpl-printesc.sublime-snippet",
+		"/Users/vincentmcaulay/Library/Application Support/Sublime Text 3/Packages/User/js-console-log.sublime-snippet",
+		"/Users/vincentmcaulay/Documents/Dev playground/Backbone Todo List/backbone-play/js/lib/backbone-min.js",
+		"/Users/vincentmcaulay/Documents/Dev playground/Backbone Todo List/backbone-play/js/lib/backbone.localStorage.js",
+		"/Users/vincentmcaulay/Documents/Dev playground/Backbone Todo List/backbone-play/js/collections/tdods.js",
+		"/Users/vincentmcaulay/Documents/Dev playground/Backbone Todo List/js/jquery.min.js",
+		"/Users/vincentmcaulay/Documents/Dev playground/Backbone Todo List/index.html",
+		"/Users/vincentmcaulay/Documents/Dev playground/LibSass Test/css/styles.css",
+		"/Users/vincentmcaulay/Documents/Dev playground/LibSass Test/Gruntfile.js",
+		"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Placeholder Site/index.html",
+		"/Users/vincentmcaulay/Downloads/90-Social-Media-Vector-Icons/Svg/Grey/Social icons by Dreamstale (24).svg",
+		"/Users/vincentmcaulay/Documents/Training/Exercises/Backbone/js/app.js",
+		"/Users/vincentmcaulay/Documents/Training/Exercises/Backbone/index.html",
+		"/Users/vincentmcaulay/Documents/Training/Exercises/Backbone/backbone-test.sublime-project"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/js/lib/photoswipe",
+			"/Users/vincentmcaulay/Documents/Work--Personal/LetEmEatCake/Site/Build/sass"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<%=",
+			"if ",
+			"#f6a800",
+			"button",
+			"darkBgColour",
+			"#4b3c40",
+			"color: #444",
+			"Purple",
+			"cedf00",
+			"Green",
+			"bgcolor=\"#e4e4e4\"",
+			"<%= yzSiteUrl %>",
+			"yzSiteUrl",
+			"images",
+			"https://gallery.mailchimp.com/bb032d1bbc4cfc382c8e99101/images/trans_1x1.gif",
+			"https://gallery.mailchimp.com",
+			"http://www.thehiveyouthzone.org/",
+			"image",
+			"fav",
+			"owlCarousel",
+			"this.hash",
+			"gallery",
+			"temp",
+			"ornamental-",
+			"ornam",
+			"after",
+			"PhotoSwipe",
+			"init",
+			"dest",
+			"customer",
+			"button",
+			"form",
+			"childre",
+			"novelty",
+			"frame",
+			"novelty-cakes",
+			"adult-cupcakes",
+			"wedding-cakes",
+			"religious-cakes",
+			"kids-cupcakes",
+			"birthday-cakes",
+			"adult-cupcakes",
+			"kids-cupcakes",
+			"pinterest",
+			"amount",
+			"services",
+			"transform",
+			"media",
+			"custom",
+			"radius",
+			"after",
+			"$vert-spa",
+			"transform",
+			"hidden",
+			"services",
+			"services-grid",
+			"box-siz",
+			"cd5d91",
+			"em(",
+			"em",
+			"rem",
+			"<div class=\"main-section__inner\">",
+			"2a5caa",
+			"button",
+			"46545F",
+			"ywhite",
+			"46545F",
+			"ywhite",
+			"wirr",
+			"www.thewayyouthzone.org/",
+			"Blue",
+			"fcba09",
+			"http://www.onsideyouthzones.org/",
+			"button",
+			"##2a5caa",
+			"button-pink",
+			"EC008C",
+			"butt",
+			"button",
+			"threecolsfirstcolbutton",
+			"bodyCopyW",
+			"bodyCopy",
+			"mc:re",
+			"drop bl",
+			"mc:",
+			"variant",
+			"repeatable",
+			"Button text",
+			"onecolbutton",
+			"Light Grey Divider",
+			"mc:repeatable",
+			"blocktext",
+			"img",
+			"Full width image",
+			"repe",
+			"mc:",
+			"mc:hidea",
+			"butt",
+			"button-pink",
+			"button",
+			"button-pink",
+			"em",
+			"rem",
+			"filter",
+			"new",
+			"compar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "training-react-flux.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gallery",
+				"sass/components/_component.gallery.scss"
+			],
+			[
+				"mai",
+				"mail.php"
+			],
+			[
+				"mail",
+				"mail.php"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"main",
+				"js/main.js"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"compongallery",
+				"sass/components/_component.gallery.scss"
+			],
+			[
+				"comse",
+				"sass/components/_component.services.scss"
+			],
+			[
+				"her",
+				"sass/components/_component.hero.scss"
+			],
+			[
+				"comm",
+				"sass/global/_common.scss"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"chil",
+				"js/gallery/childrens-cakes.js"
+			],
+			[
+				"conta",
+				"sass/components/_component.contact-form.scss"
+			],
+			[
+				"button",
+				"sass/global/_buttons.scss"
+			],
+			[
+				"kids",
+				"js/gallery/kids-cupcakes.js"
+			],
+			[
+				"hero",
+				"sass/components/_component.hero.scss"
+			],
+			[
+				"utils",
+				"sass/components/_component.utils.scss"
+			],
+			[
+				"services",
+				"sass/components/_component.services.scss"
+			],
+			[
+				"header",
+				"sass/components/_component.header.scss"
+			],
+			[
+				"contact",
+				"sass/components/_component.contact-form.scss"
+			],
+			[
+				"componforms",
+				"sass/components/_component.contact-form.scss"
+			],
+			[
+				"font",
+				"sass/settings/_fonts.scss"
+			],
+			[
+				"gall",
+				"sass/components/_component.gallery.scss"
+			],
+			[
+				"quote",
+				"sass/components/_component.quote-box.scss"
+			],
+			[
+				"social",
+				"sass/components/_component.social-links.scss"
+			],
+			[
+				"quot",
+				"sass/components/_component.quote-box.scss"
+			],
+			[
+				"notes",
+				"notes.txt"
+			],
+			[
+				"serv",
+				"sass/components/_component.services.scss"
+			],
+			[
+				"variables",
+				"sass/settings/_variables.scss"
+			],
+			[
+				"buttons",
+				"sass/global/_buttons.scss"
+			],
+			[
+				"computils",
+				"sass/components/_component.utils.scss"
+			],
+			[
+				"comput",
+				"sass/components/_component.utils.scss"
+			],
+			[
+				"compserv",
+				"sass/components/_component.services.scss"
+			],
+			[
+				"compoutil",
+				"sass/components/_component.utils.scss"
+			],
+			[
+				"servic",
+				"sass/components/_component.services.scss"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"views",
+				"backbone-play/js/views/app.js"
+			],
+			[
+				"collection",
+				"backbone-play/js/collections/todos.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
