@@ -2,6 +2,7 @@ $ = jQuery = require('jquery');
 var React = require('react');
 var Home = require('./components/homePage');
 var About = require('./components/about/aboutPage');
+var Authors = require('./components/authors/authorsPage');
 var Header = require('./common/header');
 
 var App = React.createClass({
@@ -11,6 +12,9 @@ var App = React.createClass({
 		switch(this.props.route) {
 			case 'about':
 				Child = About;
+				break;
+			case 'authors':
+				Child = Authors;
 				break;
 
 			default:
