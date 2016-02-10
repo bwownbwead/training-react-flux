@@ -38,3 +38,7 @@ Thumbs.db
 
 # node #
 node_modules
+
+# projectSpecific #
+
+dist
