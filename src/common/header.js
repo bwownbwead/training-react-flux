@@ -2,17 +2,19 @@
 'use strict';
 
 var React = require('react');
+var Router = require('react-router');
+var Link = Router.Link;
 
 var Header = React.createClass({
 	render: function() {
 		return (
 			<nav>
-				<a href="/">Logo</a>
+				<Link to="app">Logo</Link>
 
 				<ul>
-					<li><a href="/">Home</a></li>
-					<li><a href="/#about">About</a></li>
-					<li><a href="/#authors">Authors</a></li>
+					<li><Link to="app">Home</Link></li>
+					<li><Link to="about">About</Link></li>
+					<li><Link to="authors">Authors</Link></li>
 				</ul>
 			</nav>
 		);
